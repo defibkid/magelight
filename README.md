@@ -25,7 +25,7 @@ Place the deck of cards in the middle of the table and identify a location for y
 
 Place the round counter somewhere all players can see it and set a token on the "1" spot.
 
-Shuffle and randomly distribute the Role cards, one to each player. Each player reads their card and may talk about what's on it, but they may not show it to anyone else.
+Shuffle and randomly distribute the Role cards, one to each player. Each player reads their card and may talk about what's on it, but they may not show it to anyone else. You need 2 Infiltrators in games of 4, 5 or 6 people. Add one Infiltrator for games above 6 players and take one out for games of 3 people.
 
 Any one player must then do the following:
 - Ask every player to close their eyes
