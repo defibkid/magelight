@@ -97,11 +97,11 @@ Once you've taken your actions for the turn, pick 3 cards to place in the Stack,
 
 It is now the next player's turn.
 
-## Card Anatomy
+## Card Layout
 
-![Allies and spells list their name and cost at the top, effects in the middle and burn value in the bottom-left](https://imgur.com/nTt21b7)
+![Allies and spells list their name and cost at the top, effects in the middle and burn value in the bottom-left](https://i.imgur.com/nTt21b7.png)
 
-![Artifacts don't have a mana cost. Their name and effects are listed in the middle of the card and their burn value is found in the bottom left](https://imgur.com/vChkQSv)
+*Artifacts don't have a mana cost and their text starts closer to the center of the card, but they're otherwise the same.*
 
 ## Keyword Glossary
 
@@ -111,3 +111,10 @@ To save from repeatedly writing some common phrases, the following keywords have
 - **NOMAD** is an ally keyword that means that the ally is played onto someone else's board instead of yours
 - **CHANNEL** is typically a spell keyword that means that, as an additional cost to play the spell or trigger a specific effect, you must place one card (or more if a number follows the keyword) into the burn pile while not gaining any mana from it. This does not count as a burn and does not require an additional action
 - **SECRET** is an artifact keyword meaning that you do not need to reveal the card to the table. You still need to do what it says on the card, and this keyword is typically paired with **REVEAL**, which indicates a bonus effect that triggers if you choose to reveal the card like a normal artifact
+
+#### To-Dos:
+
+- [ ] Create playmats (currently we're just using sheets of paper with three tracks of squares running 0 to 20)
+- [ ] Implement Kat's card template
+- [ ] More testing
+
